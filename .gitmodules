@@ -1,0 +1,3 @@
+[submodule "lib/Controllers"]
+	path = lib/Controllers
+	url = https://github.com/MKinventions/submodule_testing.git
